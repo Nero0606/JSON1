@@ -1,4 +1,5 @@
-{
+[
+    {
     "name": "Liaw Sze Wong",
     "time": "1pm",
     "late": false,
@@ -6,3 +7,5 @@
     "IsClass": false,
     "location": "S434"
   }
+]
+
